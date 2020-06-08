@@ -1,7 +1,27 @@
-
 # Atividade Public Cloud Computing para Aplicações Web
+
+### 01 - exemplo-java-se-jetty-gradle
 
 Hello Wold criado a partir da exemplo java-se-jetty-gradle-v3 seguido da documentação da AWS: https://docs.aws.amazon.com/pt_br/elasticbeanstalk/latest/dg/tutorials.html
 
-Pacote compilado e pronto para deploy como .WAR, encontra-se no diretório: [build/libs](/build/libs)
+### 02 - exemplo-spring-web-hello
 
+API criado em Spring boot apenas com um Hello Wold:
+Testes:
+  
+- http://localhost:5000/hello-world  
+  
+```txt  
+Hello World  
+```  
+  
+  
+- http://localhost:5000/hello-world/Sergio%20Diniz  
+  
+```json  
+{"message":"Hello World, Sergio Diniz"}  
+```
+
+###  Pacotes:
+
+Pacote compilado e pronto para deploy como .WAR, encontra-se no diretório:
