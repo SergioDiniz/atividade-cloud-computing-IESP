@@ -22,6 +22,6 @@ Hello World
 {"message":"Hello World, Sergio Diniz"}  
 ```
 
-###  Pacotes:
+###  03 - pacotes-para-deploy-beanstalk:
 
-Pacote compilado e pronto para deploy como .WAR, encontra-se no diretório:
+Pacotes compilados e prontos para deploy no Elastic Beanstalk como .WAR e .JAR
